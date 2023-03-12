@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://baha2begin.github.io/ksaarzak/sitemap.xml
